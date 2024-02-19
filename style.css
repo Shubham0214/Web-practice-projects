@@ -40,7 +40,9 @@ a{
     width: 90vw;
     height: 60vh;
 }
-
+.sale{
+    text-align: center;
+}
 .Sales-table{
     width: 90vw;
     margin: auto;
