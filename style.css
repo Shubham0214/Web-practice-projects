@@ -1,0 +1,66 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+}
+header{
+    background-color: aquamarine;
+    text-align: center;
+    height: 60px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-weight: 850;
+}
+.navbar{
+    padding-top: 18px;
+}
+
+#navbar-title{
+    color: black;
+}
+
+.img{
+    display: flex;
+    height: 200px; 
+}
+
+.name{
+    text-align: center;
+    font-weight: 600;
+}
+.shopping-container{
+    background-color: lightgray;
+    text-align: center;
+    padding-bottom: 30px;
+}
+#shopping-time-img{
+    width: 90vw;
+    height: 60vh;
+}
+
+.Sales-table{
+    width: 90vw;
+    margin: auto;
+    border: 1px solid grey;
+    border-collapse: collapse;
+    padding: 12px;
+}
+.Sales-table-head{
+    background-color: #806BDC;
+}
+.Information{
+    width: 92vw;
+    margin: 20px;
+    font-size: 11px;
+    color: #878787;
+    list-style-position: inside;
+}
+footer{
+    height: 60px;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
